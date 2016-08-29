@@ -1,8 +1,4 @@
-# hello-world
-little test-project
 
 Hello world,
-
-This is a test. 
-
+This is a test to what happens when making changes. 
 Goodbye
